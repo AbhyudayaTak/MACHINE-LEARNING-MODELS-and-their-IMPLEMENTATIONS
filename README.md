@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 🚀 Machine Learning Model Zoo 🤖  
 
 This repository contains **implementations of various Machine Learning algorithms** from scratch using **Python & Jupyter Notebooks**. It covers **Regression, Classification, Clustering, Decision Trees, SVM, KNN, Naive Bayes, Random Forest, and more**! Perfect for ML enthusiasts & beginners.  
